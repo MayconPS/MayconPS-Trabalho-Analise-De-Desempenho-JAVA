@@ -214,10 +214,15 @@ Ao executar o programa, o menu será exibido:
 Escolha uma opção:
 
 1.Medir tempo de inserção e busca em Array Ordenado
+
 2.Medir tempo de inserção e busca em Array Inversamente Ordenado
+
 3.Medir tempo de inserção e busca em Array Aleatório
+
 4.Medir tempo de ordenação com Bubble Sort
+
 5.Medir tempo de ordenação com Merge Sort
+
 6.Encerrar programa
 
 Digite o tamanho do array (100, 1000, 10000): 100 Digite o valor a ser buscado: 50 Tempo para gerar array em ordem: 23456 nanossegundos Valor 50 encontrado na posição 49. Tempo para busca sequencial no ordenado: 1234 nanossegundos Valor 50 encontrado na posição 49. Tempo para busca binária no ordenado: 567 nanossegundos
